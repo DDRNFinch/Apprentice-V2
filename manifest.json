@@ -1,0 +1,10 @@
+{
+  "name": "Apprentice+",
+  "short_name": "Apprentice+",
+  "description": "Your Course, Your Way",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f8f8",
+  "theme_color": "#0b3f43",
+  "icons": []
+}
