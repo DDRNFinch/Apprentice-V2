@@ -1,1 +1,1 @@
-console.log('Apprentice+ Phase 2');
+document.querySelector('h1').insertAdjacentHTML('afterend','<p>Academy module foundation loaded.</p>');
